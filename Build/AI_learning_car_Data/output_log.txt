@@ -1,0 +1,122 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.Advertisements.dll (this message is harmless)
+Loading E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.Advertisements.dll into Unity Child Domain
+Platform assembly: E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.364 seconds
+desktop: 1920x1080 50Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Node added LAYER: 0   INDEX: 0   NUMOUTPUTS: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 0   INDEX: 1   NUMOUTPUTS: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 0   INDEX: 2   NUMOUTPUTS: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 0   INDEX: 3   NUMOUTPUTS: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 0   INDEX: 4   NUMOUTPUTS: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 0   INDEX: 5   NUMOUTPUTS: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 0   INDEX: 6   NUMOUTPUTS: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 0   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 1   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 2   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 3   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 4   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 5   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 6   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 7   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 8   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 9   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 1   INDEX: 10   NUMOUTPUTS: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 2   INDEX: 0   NUMOUTPUTS: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 2   INDEX: 1   NUMOUTPUTS: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 2   INDEX: 2   NUMOUTPUTS: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 2   INDEX: 3   NUMOUTPUTS: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Node added LAYER: 2   INDEX: 4   NUMOUTPUTS: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Platform assembly: E:\ALGORITMER\Uppgifter\PROJEKT\ANN_Car\Build\AI_learning_car_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 154c -> priority: 1 
+  Thread -> id: 160ac -> priority: 1 
